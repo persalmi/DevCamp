@@ -80,7 +80,7 @@
                   </tr>
                   <tr>
                      <td rowspan=4>45</td>
-                     <td rowspan=3><a href='HOL/create-virtual-machine/README.md'>HOL - DocumentDB or</a></td>
+                     <td rowspan=3><a href='HOL/build-web-app-using-documentdb/README.md'>HOL - DocumentDB or</a></td>
                   </tr>
                   <tr></tr>
                   <tr></tr>
